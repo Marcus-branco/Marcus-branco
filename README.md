@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="mailto:marcus.v.s.branco@outlook.com"><img src="https://img.shields.io/badge/Email-marcus.v.s.branco%40outlook.com-blue?style=flat-square&logo=microsoft-outlook" alt="Email"></a>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/marcus-branco-5b83691aa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 ---
