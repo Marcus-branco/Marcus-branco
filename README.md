@@ -19,7 +19,7 @@ Atualmente, trabalho na área de tecnologia como Auxiliar de T.I., onde atuo dir
 | Categoria | Tecnologias / Ferramentas |
 | :--- | :--- |
 | **Controle de Versão** | `Git`, `GitHub` |
-| **Desenvolvimento Web & Software** | `JavaScript` (Node.js/Front-end), `HTML5`, `CSS3`, `Programação Orientada a Objetos (POO)` |
+| **Desenvolvimento Web & Software** | `JavaScript` (Node.js/Front-end), `HTML5`, `CSS3`, `Programação Orientada a Objetos (POO)`, `C# .NET` |
 | **Bancos de Dados & BI** | `Oracle Database`, `SQL`, `PowerBI` |
 | **Automação & Dados** | `Automação de Processos`, `Análise de Dados` |
 | **Metodologias & Práticas** | `Documentação Técnica`, `Resolução de Problemas Complexos`, `Prazos e Entregas` |
